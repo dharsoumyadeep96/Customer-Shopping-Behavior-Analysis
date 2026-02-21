@@ -278,7 +278,7 @@ customer-shopping-behavior-analysis/
 
 **Soumyadeep Dhar** — Passionate Data Analyst, transforming raw data into actionable insights.
 
-[![LinkedIn](www.linkedin.com/in/soumyadeep-dhar-785724333)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Soumyadeep_Dhar-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/soumyadeep-dhar-785724333)
 [![GitHub](https://img.shields.io/badge/GitHub-dharsoumyadeep96-181717?style=flat&logo=github)](https://github.com/dharsoumyadeep96)
 [![Gmail](https://img.shields.io/badge/Gmail-soumyadeepdhar433@gmail.com-EA4335?style=flat&logo=gmail)](mailto:soumyadeepdhar433@gmail.com)
 
